@@ -53,7 +53,7 @@ Implementation steps:
 11. Divide TCs into 5 part:
 12. Create package with python file : **src > > helpers >> api_request_wrapper.py** -> help you in making request
 13. Create package with python file : **src > > helpers >> common_verification.py**
-14. Create package with python file : **src > > helpers >> payload_manager.py*
+14. Create package with python file : **src > > helpers >> payload_manager.py**
 15. Create Package : -> to store a resource like ".env"
 16. But generally we keep ".env" file outside -> environment related file
     For Example: USERNAME = admin
